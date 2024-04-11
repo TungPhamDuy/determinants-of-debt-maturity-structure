@@ -8,7 +8,7 @@ This is a personal project of Tung Pham in order to serve as the final project f
 
 **Dataset description:**
 - Source: Cafef.vn (dataset was imported directly to excel file)
-- Company: CMC Technology Group Joint Stock Company (CMG)
+- Company: CMC Technology Group Joint Stock Company (CMG) 
 - Document type: Quarterly Balance Sheet
 - Format: Excel format (xlsx)
 - Time period: First quarter of 2010 to fourth quarter of 2022 (Q1-2010 to Q4-2022)
